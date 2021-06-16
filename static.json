@@ -1,3 +1,6 @@
 {
-    "root": "index.html"
+    "root": "index.html",
+    "routes": {
+        "/*.html": "index.html"
+    }
 }
