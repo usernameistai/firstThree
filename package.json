@@ -10,9 +10,7 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview",
-    "heroku-postbuild": "vite build --prod",
-    "preview": "vite preview --port 8080"
+    "serve": "vite preview"
   },
   "devDependencies": {
     "vite": "^2.3.7"
