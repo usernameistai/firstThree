@@ -2,7 +2,7 @@
   "name": "firstthree",
   "version": "0.0.0",
   "description": "first threejs app",
-  "main": "index.js",
+  "main": "index.html",
   "engines": {
     "node": "12.3.1"
   },
